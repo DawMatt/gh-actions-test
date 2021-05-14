@@ -3,7 +3,9 @@
 
 <!-- Badges generated with: https://michaelcurrin.github.io/badge-generator/ -->
 
-[![Node CI](https://github.com/MichaelCurrin/node-project-template/workflows/Node%20CI/badge.svg)](https://github.com/MichaelCurrin/node-project-template/actions?query=workflow:"Node+CI")
+[![CI](https://github.com/DawMatt/gh-actions-test/actions/workflows/main.yml/badge.svg)](https://github.com/DawMatt/gh-actions-test/actions/workflows/main.yml)
+[![Node CI](https://github.com/DawMatt/gh-actions-test/actions/workflows/node.yml/badge.svg)](https://github.com/DawMatt/gh-actions-test/actions/workflows/node.yml)
+
 [![GitHub tag](https://img.shields.io/github/tag/MichaelCurrin/node-project-template)](https://github.com/MichaelCurrin/node-project-template/releases/)
 [![License](https://img.shields.io/badge/License-MIT-blue)](#license)
 
